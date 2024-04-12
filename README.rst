@@ -11,7 +11,8 @@ Multiple simulations analysis tool.
 Introduction
 ------------
 
-``BlueETL`` is a package that can help analyse multiple simulations in a Simulation Campaign.
+``BlueETL`` is a software package developed to assist researchers in analyzing multiple simulations within a Simulation Campaign. It is designed
+to simplify and automate the process of analyzing complex simulations, saving researchers time and effort
 
 It automatically uses `Blue Brain SNAP <https://bluebrainsnap.readthedocs.io/en/stable/>`__ or `BluePy <https://bbpteam.epfl.ch/documentation/projects/bluepy/latest/>`__ to open simulations, circuits, and reports.
 
